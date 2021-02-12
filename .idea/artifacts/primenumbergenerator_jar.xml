@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="primenumbergenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/primenumbergenerator_jar</output-path>
+    <root id="archive" name="primenumbergenerator.jar">
+      <element id="module-output" name="primenumbergenerator" />
+    </root>
+  </artifact>
+</component>
