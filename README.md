@@ -3,8 +3,12 @@ Project written in Java, with using Tomcat. Topic of the project is "Prime numbe
 
 <img src="/1a.png" >
 
+An exemplary generation of prime numbers.
+
 <img src="/2aa.png" >
 
 <img src="/4a.png" >
+
+Finally, a summary of the generation is displayed.
 
 <img src="/3a.png">
