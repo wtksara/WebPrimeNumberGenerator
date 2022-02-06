@@ -11,4 +11,4 @@ An exemplary generation of prime numbers.
 
 Finally, a summary of the generation is displayed.
 
-<img src="/3a.png">
+<img src="/3a.png" width="622" height="531" >
