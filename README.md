@@ -3,7 +3,7 @@ Project written in Java, with using Tomcat. Topic of the project is "Prime numbe
 
 <img src="/1a.png" >
 
-<img src="/2a.png" >
+<img src="/2aa.png" >
 
 <img src="/4a.png" >
 
